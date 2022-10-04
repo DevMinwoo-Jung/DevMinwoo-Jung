@@ -4,20 +4,20 @@
 
 <div class="gitStatDiv">
   <p align="center">
-    <img  src ="https://github-readme-stats.vercel.app/api?username=DevMinwoo-Jung&show_icons=true&theme=synthwave">
+    <img align="center"  src ="https://github-readme-stats.vercel.app/api?username=DevMinwoo-Jung&show_icons=true&theme=synthwave">
   </p>
 </div>
 
 <div class="techDiv">
-  <h2>Tech Stack</h2>
-  <div style='justify-content: center'>
+  <h2 align="center">Tech Stack</h2>
+  <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"></img>&nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"></img>&nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Reacct-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"></img>&nbsp; &nbsp;
   <img src="https://img.shields.io/badge/reacct router-CA4245?style=for-the-badge&logo=react-router&logoColor=FFFFFF"></img>&nbsp;
   </div>
   <br/>
-  <div style='justify-content: center'>  
+  <div align="center">  
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF"></img>&nbsp; &nbsp;  
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF"></img>&nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Redux―Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=FFFFFF"></img>&nbsp; &nbsp;
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=FFFFFF"></img>&nbsp; &nbsp;
   </div>
   <br/>
-  <div style='justify-content: center'>
+  <div align="center">
   <img src="https://img.shields.io/badge/styled―components-DB7093?style=for-the-badge&logo=Styled-components&logoColor=FFFFFF"></img>&nbsp; &nbsp;  
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF"></img>&nbsp; &nbsp;  
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"></img>&nbsp; &nbsp; 
@@ -34,23 +34,3 @@
   </div>
 </div>
 
-
-
-<style>
-	.techDiv {
-    margin: 'auto';
-    text-align: center;
-    & img {
-      align-items: 'center';
-    }
-    align: center
-  }
-  .gitStatDiv {
-    margin: 0 auto;
-    justify-content: center;
-    align: center;
-  }
-  body > div {
-    margin: auto;
-  }
-</style>
