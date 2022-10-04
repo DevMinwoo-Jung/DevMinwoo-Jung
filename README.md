@@ -1,23 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
-<style>
-	.techDiv {
-    margin: 'auto';
-    text-align: center;
-    & img {
-      align-items: 'center';
-    }
-    align: center
-  }
-  .gitStatDiv {
-    margin: 0 auto;
-    justify-content: center;
-    align: center;
-  }
-  body > div {
-    margin: auto;
-  }
-</style>
 <h3 style="text-align: center"> Front-end 개발자가 되기 위해 오늘도 나아가는  정민우입니다.</h3>
 
 <div class="gitStatDiv">
@@ -51,3 +33,24 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF"></img>&nbsp; &nbsp;   
   </div>
 </div>
+
+
+
+<style>
+	.techDiv {
+    margin: 'auto';
+    text-align: center;
+    & img {
+      align-items: 'center';
+    }
+    align: center
+  }
+  .gitStatDiv {
+    margin: 0 auto;
+    justify-content: center;
+    align: center;
+  }
+  body > div {
+    margin: auto;
+  }
+</style>
