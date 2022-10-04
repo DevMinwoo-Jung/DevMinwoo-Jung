@@ -13,7 +13,7 @@
   <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"></img>&nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"></img>&nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/Reacct-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"></img>&nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/Reacct-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"></img>&nbsp; &nbsp; 
   <img src="https://img.shields.io/badge/reacct router-CA4245?style=for-the-badge&logo=react-router&logoColor=FFFFFF"></img>&nbsp; 
   </div>
   <br/>
