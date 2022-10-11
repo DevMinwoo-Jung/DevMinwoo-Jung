@@ -1,6 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=Jung Minwoo&fontSize=90" />
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=Jung%20Minwoo&fontSize=90)
 
 <p align="center">반갑습니다. 프론트엔드 개발자를 꿈꾸는 정민우입니다.</p>
 <br/>
