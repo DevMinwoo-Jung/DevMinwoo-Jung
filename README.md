@@ -1,6 +1,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
-<h3 style="text-align: center"> Front-end 개발자가 되기 위해 오늘도 나아가는  정민우입니다.</h3>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=Jung Minwoo&fontSize=90" />
+
+<p align="center">반갑습니다. 프론트엔드 개발자를 꿈꾸는 정민우입니다.</p>
+<br/>
+<p align="center">저는 _ _ _ _ 을 즐기는 개발자입니다.</p>
+<p align="center">* 꾸준히 노력하는 것</p>
+<p align="center">* 새로운 것을 배우는 것</p>
+<p align="center">* 유저의 좋은 경험을 위해 고민</p>
+<p align="center">* 문제를 해결하는 것</p>
+<p align="center">* 공부하여 성장하는 것</p>
+
 
 <div class="gitStatDiv">
   <p align="center">
