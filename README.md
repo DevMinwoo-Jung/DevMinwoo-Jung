@@ -11,8 +11,9 @@
 <p align="center">* 유저의 좋은 경험을 위해 고민</p>
 <p align="center">* 문제를 해결하는 것</p>
 <p align="center">* 공부하여 성장하는 것</p>
-
-
+<br/>
+<!-- 
+<p align="center">포트폴리오 보러가기 </p> -->
 <div class="gitStatDiv">
   <p align="center">
     <img align="center"  src ="https://github-readme-stats.vercel.app/api?username=DevMinwoo-Jung&show_icons=true&theme=synthwave">
