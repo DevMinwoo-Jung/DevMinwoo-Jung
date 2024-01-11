@@ -14,11 +14,7 @@
 <br/>
 <!-- 
 <p align="center">포트폴리오 보러가기 </p> -->
-<div class="gitStatDiv">
-  <p align="center">
-    <img align="center"  src ="https://github-readme-stats.vercel.app/api?username=DevMinwoo-Jung&show_icons=true&theme=synthwave">
-  </p>
-</div>
+
 
 <div class="techDiv">
   <h2 align="center">Tech Stack</h2>
